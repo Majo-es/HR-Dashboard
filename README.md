@@ -1,4 +1,4 @@
-# private4
+# HR-Dashboard
 
 ![image](https://github.com/user-attachments/assets/47359611-ff3f-4442-8685-16635ee6105e)
 
