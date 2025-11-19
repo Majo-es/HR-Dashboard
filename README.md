@@ -1,11 +1,23 @@
-# HR-Dashboard
+##  Case Study #2: Business Intelligence Dashboard (Power BI)
 
-![image](https://github.com/user-attachments/assets/47359611-ff3f-4442-8685-16635ee6105e)
+### **Project Overview**
 
-<img width="1017" alt="Screenshot 2025-05-13 at 02 00 16" src="https://github.com/user-attachments/assets/20c49699-1f29-4e81-aa6b-78943180b00d" />
+This project focuses on the development of an interactive Business Intelligence (BI) dashboard using **Microsoft Power BI**. 
 
-<img width="1014" alt="Screenshot 2025-05-13 at 02 01 39" src="https://github.com/user-attachments/assets/2d2c0023-d065-4a7d-bf5d-4265e86ff1da" />
+The objective was to transform raw data into a set of actionable visualizations to enable informed decision-making and performance monitoring.
 
-<img width="1012" alt="Screenshot 2025-05-13 at 02 01 58" src="https://github.com/user-attachments/assets/817da218-5036-4c9a-a392-54090848d7bd" />
+###  **Analysis and Key Features**
 
-<img width="1014" alt="Screenshot 2025-05-13 at 02 02 21" src="https://github.com/user-attachments/assets/ad35a89c-cc98-4f27-a0a0-dcf940af8af0" />
+The Power BI dashboard was designed to provide insights into key performance indicators (KPIs) such as:
+
+* **Performance Measurement:** Visualizing key metrics like sales trends, inventory levels, or cost structures.
+* **Data Aggregation:** Consolidating complex operational data into a single, user-friendly interface.
+* **Interactive Filtering:** Allowing users to filter data by dimension (e.g., time, product, region) for deeper analysis and root cause investigation.
+
+### **Technologies Used**
+
+* **Microsoft Power BI:** For data modeling, visualization, and dashboard creation.
+* **CSV:** For the underlying data source of the case study.
+
+## 
+![PowerBi- Caso 2](https://github.com/user-attachments/assets/ce805fa3-393b-440c-9523-1558e725edfc)
