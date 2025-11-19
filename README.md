@@ -17,7 +17,7 @@ The Power BI dashboard was designed to provide insights into key performance ind
 ### **Technologies Used**
 
 * **Microsoft Power BI:** For data modeling, visualization, and dashboard creation.
-* **Data Source**: XLSX (Excel Spreadsheet)
+* **Data Source**: XLSX (Excel Spreadsheet).
 
 ## 
 ![PowerBi- Caso 2](https://github.com/user-attachments/assets/ce805fa3-393b-440c-9523-1558e725edfc)
